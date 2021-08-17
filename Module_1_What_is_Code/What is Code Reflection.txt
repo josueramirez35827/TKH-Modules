@@ -1,0 +1,57 @@
+WHAT IS CODE REFLECTION
+
+In your own words, what is a computer really doing whenever you type a letter on a keyboard? (150 words max)
+
+What a computer is doing when you type a letter is getting the signal from the keyboard, using that to pull from its memory, and translating that into lines and circles to display.
+
+
+In your own words, how do computers use input and output to create experiences? (250 words max)
+
+Computers use input and output to create experiences in the same way you’d put your punch card into a box and give them to an operator who would load them and update part of its memory in order to punch back in the right location. Computers take in the actions you are inputting into its system using a programming language and then look into its memory to produce the instruction so that it can output the results wanted. This back and forth can be many at once but produce millions of results thanks to the incredible ability of computers to perform tasks multiple times all at the same time. 
+
+
+Explain why software products are essentially “infinitely reproducible nothings.” (150 words max)
+
+Software products are “infinitely reproducible nothings” because software isn’t attached to hardware and is therefore not a physical aspect of sales. This in turn allows the creator the ability to sell it without needing to physically make it and be able to infinitely reproduce it which brings about the term “infinitely reproducible nothings.”
+
+
+Explain in your own words how code becomes software. (150 words max)
+
+Code becomes software in that you can use code as a language with an explicit list of instructions that can be carried out by interconnected logic gates thus turning your code into something that can be executed which is the software.
+
+
+Explain “algorithms” in your own words. (150 words max)
+
+Algorithms can be pure mathematical entities and/or practical expressions of ideas that are used to solve problems in a programming language. Often lovingly referred to as the building blocks of programming.
+
+
+Explain the DRY principle. (100 words max)
+
+The DRY principle is for “Don’t Repeat Yourself”, one of the colloquial tenets of programming referring to the act of naming things once, doing things once, creating a function once, and letting the computer repeat itself.
+
+
+In your own words, what is object-oriented programming? (100 words max)
+
+Object-oriented programming is, at its essence, a filing system for code. Kind of like a shared network folder or a digital filing cabinet, giving programmers a great way to build up a library for all the use.
+
+
+In your own words explain data and how it relates to code. (100 Words max)
+
+Data can come from everywhere, including third parties, music files, users, emails, documents, and even the machines themselves. Managing all this data requires more programming to be used to sort through all this data. Then as more data comes, more coding is needed creating this relationship between the two that both increase their size and reach.
+
+
+What is a framework? (150 words max)
+
+Frameworks are like product pitches, they are used to build graphical applications. There are hundreds upon thousands of frameworks out there and just about every language has one.
+
+
+What is debugging? (150 words max)
+
+Debugging is the expectation that things won’t work. It is looking into your code of work and finding the reasons why it isn’t functioning that way you proposed for it to work. When programming, most languages now have built in debugging features to catch failures, trapping them, examining them and exterminating them. 
+
+
+Now, with more of an understanding of what code is, why do you want to learn how to code? (500 words max)
+
+What I find most interesting about code is its ability to sort through so much data and create interesting correlations between all the seemingly insignificant points in that data. I think that showing the information presented into the computer can give even more information about the person than they realized they put in. By creating powerful tools that analyze this data and sorts through it to find important groups that create full profiles on them. That is just amazing. It is like the computer ends up learning more about you than you would have never known about yourself. 
+
+It is also super scary. I think that is why I want to learn more about this and just how it all works. I know that there is no stopping this now that it has started and I feel we have no one to blame but our own self for starting something we can’t hope to keep up with. But I also feel the best thing I can do for myself is at least familiarize myself with it. To learn how to work alongside it before it is developed enough to where we can no longer hope to do so.
