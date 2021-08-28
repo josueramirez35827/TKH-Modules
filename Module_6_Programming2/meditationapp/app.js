@@ -63,8 +63,7 @@ song.ontimeupdate = () => {
 		video.pause();
 	}
 
-	};
+};
 };
 
-
-};
+app();
